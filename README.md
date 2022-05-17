@@ -1,8 +1,16 @@
+## Title
+
+Password Generator
+
+## Description
+
 This is a simple password generator written in Javascript.  The user can generate a password with any combination of upper case, lower case, numeric and special characters     !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~  
 
 The code utilises decimal ASCII values, array concatenation, a simple object and is functionalised to give some greater maintainability.  Further refactoring could simplify the solution.  Additionally, the application could benefit from on screen selectors rather than using prompts, confirmations and alerts.
 
 ![Week-03-PasswordGenerator](./assets/images/screen_capture.PNG?raw=true "Screen Capture")
+
+Deployed Application:  https://chrisaylen.github.io/Week-03-PasswordGenerator/
 
 ## User Story
 
